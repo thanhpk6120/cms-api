@@ -1,0 +1,5 @@
+# Created at 2026-10-12T08:13:00.962
+Boot Manifest-JAR contains absolute paths in classpath 'I:\AI\auto-fix-bug-jira\services-2\api\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
